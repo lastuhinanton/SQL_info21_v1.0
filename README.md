@@ -55,7 +55,7 @@ Structured Query Language, или язык, на котором "каждая д
 
 ## Logical view of database model
 
-![SQL2](./misc/images/SQL2.png)
+![SQL2](./SQL2.png)
 
 *Все поля при описании таблиц перечислены в том же порядке, что и на схеме.*
 
